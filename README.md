@@ -20,8 +20,8 @@ No external libraries are required since the chatbot uses only Python basics.
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-project.git
-   cd chatbot-project
+   git clone https://https://github.com/Sairajbodke/Local_Chatbot
+   cd localchatbot-project
 2. Open Jupyter Notebook:
 jupyter notebook
 3. Run the chatbot.ipynb file.
